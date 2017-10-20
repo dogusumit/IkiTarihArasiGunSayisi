@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Days Between Dates</string>
+    <string name="hata">Please use Day.Month.Year format</string>
+    <string name="oyla">Rate App</string>
+    <string name="market">My Other Apps</string>
+    <string name="cikis">Exit</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/7480416540</string>
+    <string name="play_store_id">dogusumit</string>
+    <string name="str1">" DAY"</string>
+    <string name="str2">Day.Month.Year</string>
+</resources>

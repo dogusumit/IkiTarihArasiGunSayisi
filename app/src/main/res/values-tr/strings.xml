@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">İki Tarih Arası Gün Sayısı</string>
+    <string name="hata">Lütfen Gün.Ay.Yıl formatını kullanınız</string>
+    <string name="oyla">Uygulamayı Oyla</string>
+    <string name="market">Diğer Uygulamalarım</string>
+    <string name="cikis">Çıkış</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/7480416540</string>
+    <string name="play_store_id">dogusumit</string>
+    <string name="str1">" GÜN"</string>
+    <string name="str2">Gün.Ay.Yıl</string>
+</resources>

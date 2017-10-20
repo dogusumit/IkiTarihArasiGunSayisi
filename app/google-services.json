@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "842250016601",
+    "firebase_url": "https://fir-projem.firebaseio.com",
+    "project_id": "fir-projem",
+    "storage_bucket": "fir-projem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842250016601:android:4a7a73c457ba917c",
+        "android_client_info": {
+          "package_name": "com.dogusumit.ikitariharasigunsayisi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842250016601-5j62o3j8go1r7noff65tue57prcb59bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dogusumit.ikitariharasigunsayisi",
+            "certificate_hash": "a8f5ef2e3b3a37c59d31585a388b38db640a35f3"
+          }
+        },
+        {
+          "client_id": "842250016601-fga6ucvovu23dhehnjibrfkrogd01b73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG8WlV78S8piEzxNQO4LefDWyNK80pktk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
