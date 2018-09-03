@@ -1,14 +1,6 @@
 apply plugin: 'com.android.application'
 
 android {
-    signingConfigs {
-        config {
-            keyAlias 'keystore'
-            keyPassword 'Sifre.123'
-            storeFile file('/home/dogus/Programs/Android/keystore.jks')
-            storePassword 'Sifre.123'
-        }
-    }
     compileSdkVersion 25
     buildToolsVersion '26.0.1'
     defaultConfig {
